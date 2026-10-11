@@ -1,0 +1,15 @@
+{
+	"font_face": "Cascadia Mono",
+	"font_size": 13,
+	"caret_extra_top": 1,
+	"caret_extra_bottom": 1,
+	"caret_extra_width": 1,
+	"highlight_line": true,
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "OLED.sublime-color-scheme",
+}
